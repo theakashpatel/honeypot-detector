@@ -1,0 +1,13 @@
+{
+  "name": "cryptohoneypotdetector",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.4",
+    "web3": "^1.7.3"
+  }
+}
